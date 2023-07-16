@@ -1,0 +1,8 @@
+ul {
+    list-style-type: none;
+    background-color: rgb(68, 68, 68);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
